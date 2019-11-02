@@ -1,0 +1,11 @@
+C:\Users\ambro\Desktop\China C#\bin\Debug\netcoreapp2.2\China C#.deps.json
+C:\Users\ambro\Desktop\China C#\bin\Debug\netcoreapp2.2\China C#.runtimeconfig.json
+C:\Users\ambro\Desktop\China C#\bin\Debug\netcoreapp2.2\China C#.runtimeconfig.dev.json
+C:\Users\ambro\Desktop\China C#\bin\Debug\netcoreapp2.2\China C#.dll
+C:\Users\ambro\Desktop\China C#\bin\Debug\netcoreapp2.2\China C#.pdb
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.csprojAssemblyReference.cache
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.csproj.CoreCompileInputs.cache
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.AssemblyInfoInputs.cache
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.AssemblyInfo.cs
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.dll
+C:\Users\ambro\Desktop\China C#\obj\Debug\netcoreapp2.2\China C#.pdb
